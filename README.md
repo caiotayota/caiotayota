@@ -1,14 +1,13 @@
 
-<div style="display: inline_block">
+<div>
   <a href="https://github.com/caiotayota">
-  <img height="180em" width="450px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotayota&layout=compact" /></a>
-  <br>
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotayota&layout=compact" /></a>
   <a href="https://github.com/caiotayota">
-  <img height="180em" width="450px" align="center" src="https://github-readme-stats.vercel.app/api?username=caiotayota&show_icons=true" /></a>
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=caiotayota&show_icons=true" /></a>
 </div>
   
 ##### Technologies:
-<div style="display: inline_block">
+<div>
     <img align="center" alt="Java" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" alt="Python" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="JavaScript" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
