@@ -1,9 +1,9 @@
 
 <div>
   <a href="https://github.com/caiotayota">
-  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotayota&layout=compact" /></a>
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiotayota&layout=compact&hide_border=true" /></a>
   <a href="https://github.com/caiotayota">
-  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=caiotayota&show_icons=true" /></a>
+  <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api?username=caiotayota&show_icons=true&hide_border=true" /></a>
 </div>
   
 ##### Technologies:
